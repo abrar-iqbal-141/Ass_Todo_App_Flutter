@@ -5,12 +5,12 @@
 ---
 
 ## 👥 Group Members
+Group 3 Members:
 
-| Name | Roll Number |
-|------|-------------|
-| Hafiz Abrar Iqbal | 2280142 |
-| [Member 2 Name] | [ID] |
-| [Member 3 Name] | [ID] |
+Hafiz Abrar - 2280142 (Group Leader)
+Om - 2280156
+Rahul Duseja - 2280158
+Junaid bin Waqar - 2380233
 
 ---
 
